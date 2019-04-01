@@ -48,3 +48,22 @@ C:\Users\jafar.j\Desktop\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\D
 C:\Users\jafar.j\Desktop\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.pdb
 C:\Users\jafar.j\Desktop\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\Newtonsoft.Json.dll
 C:\Users\jafar.j\Desktop\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\WeatherBroadcastWinForms.exe.config
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\WeatherBroadcastWinForms.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\WeatherBroadcastWinForms.pdb
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\Interop.WMPLib.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.csprojResolveAssemblyReference.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\Interop.WMPLib.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.csproj.ResolveComReference.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.Component.TranparentPanel.resources
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.WeatherAppFront.resources
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.Properties.Resources.resources
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.csproj.GenerateResource.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.csproj.CoreCompileInputs.cache
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.csproj.CopyComplete
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.exe
+C:\Users\cafar\Documents\Visual Studio 2017\Projects\WinFormsWeatherApp\WeatherBroadcastWinForms\WeatherBroadcastWinForms\obj\Debug\WeatherBroadcastWinForms.pdb
